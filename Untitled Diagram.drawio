@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T14:01:34.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kBATFQU8OXia0jOkljrk" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T15:17:24.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="gzW3rLUIwPiv1Y7oVirQ" version="21.1.1" type="github">
   <diagram id="vJp4OanYm7oCkvBlFuh-" name="Страница 1">
     <mxGraphModel dx="1332" dy="1737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,10 +14,13 @@
           <mxGeometry x="1010" y="30" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sdHNIXhS7dG6Pmc1NAwo-7" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="185" y="-90" width="30" height="60" as="geometry" />
+          <mxGeometry x="70" y="-80" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sdHNIXhS7dG6Pmc1NAwo-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="-70" width="510" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="sdHNIXhS7dG6Pmc1NAwo-19" value="&lt;h1&gt;Functions&lt;/h1&gt;&lt;div&gt;1. Update habits list (add/delete habit for the user)&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-300" width="260" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
