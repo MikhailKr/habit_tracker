@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T16:47:52.428Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.1" etag="gs6n9KkLI677O1wZOgKy" type="github"><diagram id="vJp4OanYm7oCkvBlFuh-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-19T14:01:34.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kBATFQU8OXia0jOkljrk" version="21.1.1" type="github">
+  <diagram id="vJp4OanYm7oCkvBlFuh-" name="Страница 1">
+    <mxGraphModel dx="1332" dy="1737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sdHNIXhS7dG6Pmc1NAwo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.371;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sdHNIXhS7dG6Pmc1NAwo-1" target="sdHNIXhS7dG6Pmc1NAwo-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sdHNIXhS7dG6Pmc1NAwo-1" value="Telegram" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sdHNIXhS7dG6Pmc1NAwo-3" value="Postgres" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="30" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sdHNIXhS7dG6Pmc1NAwo-7" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="-90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sdHNIXhS7dG6Pmc1NAwo-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-70" width="510" height="430" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
